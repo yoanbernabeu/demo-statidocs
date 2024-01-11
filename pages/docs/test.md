@@ -15,4 +15,4 @@ echo 'Hello world!';
 
 ## Cedi est une image
 
-![Ceci est une image](https://source.unsplash.com/random/800x600)
+![Ceci est une image](/icon-512x512.png)
